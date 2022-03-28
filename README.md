@@ -1,5 +1,7 @@
-Meu primeiro sistema no GIT
+Meu segundo sistema no GIT
 
 nova linha adicionada
 
-alteração feita no Master
+alteração do que eu quiser
+
+mais uma linha
